@@ -1,4 +1,4 @@
 # Install this website first you need to download pillow :- because creating a website use ImageField
-# Run command "python -m pip install Pillow" 
+# Run command "python3 -m pip install Pillow" 
 # Then run "python3 manage.py makemigrations" & "python3 manage.py migrate"
 # now run "python3 manage.py runserver" 
