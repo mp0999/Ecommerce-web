@@ -1,0 +1,2 @@
+# Install this website first you need to download pillow 
+# Run command "python -m pip install Pillow" because creating a website use ImageField
