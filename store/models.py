@@ -46,6 +46,8 @@ class Order(models.Model):
                 if i.product.digital == False:
                     shipping = True
                     break # Exit loop early if a physical product is found
+            else:
+                pass # cases where i.product is None
         return shipping
     
     @property
