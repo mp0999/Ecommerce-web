@@ -1,7 +1,5 @@
 from django.contrib import admin
 
-#mp - 97@mp password ,harshil - 97241870@har
-
 # Register your models here.
 from .models import *
 
